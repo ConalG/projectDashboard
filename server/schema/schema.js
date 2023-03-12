@@ -27,7 +27,7 @@ const RootQuery = new GraphQLObjectType({
             type: IdeaType,
             args: {id: {type: GraphQLID}},
             resolve(parent, args){
-                //Datebase link
+                //Datebase link/
             }
         }
     }
