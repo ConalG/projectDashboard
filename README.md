@@ -11,6 +11,7 @@ Idea {
     id int
     title string
     date created
+    status int
     creater string
     description string
 }
